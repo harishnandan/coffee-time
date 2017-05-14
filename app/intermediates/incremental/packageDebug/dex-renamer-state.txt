@@ -1,0 +1,7 @@
+#Mon Mar 20 09:59:18 IST 2017
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\HellloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50f030ba564ab8cc87e3b8cc8dddac0256a65adc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\HP\\AndroidStudioProjects\\HellloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_529a981798119c366cb86226e9f4086175f1d882\\classes.dex
+base.1=C\:\\Users\\HP\\AndroidStudioProjects\\HellloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_529a981798119c366cb86226e9f4086175f1d882
+file.0=C\:\\Users\\HP\\AndroidStudioProjects\\HellloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50f030ba564ab8cc87e3b8cc8dddac0256a65adc\\classes.dex
